@@ -11,6 +11,7 @@ public class Calculadora {
 		System.out.println("mensagem - oi mundo");
 		Logger logger = LogManager.getLogger("Calculadora");
 		logger.info("mensagem de teste do log");
+		
 		exemploDivisao();
 		exemploMultiplicacao();
 		exemploAdicao();

@@ -13,7 +13,6 @@ public class Recibo {
 	private Cidade cidade;
 	private Date dataConfirmacao;
 	private Date dataCadastro = new Date();
-	
 	public Integer getId() {
 		return id;
 	}
